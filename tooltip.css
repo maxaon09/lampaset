@@ -1,0 +1,83 @@
+body {
+	margin:10px;
+	font-size: 18px;
+	font-family: 'Open Sans', sans-serif;
+	line-height: 1em;
+}
+/* Общие для всех подсказок стили */
+.tooltip {
+    position:relative;
+
+}
+.tooltip:after {
+	position:absolute;
+	content: attr(data-info);
+	visibility: hidden;
+	min-width:110px;
+	font-size: 20px;
+	background-color: rgba(61,61,61,0.85);
+    color: #fff;
+    padding: 15px;
+    border-radius: 6px;
+    z-index: 10;
+}
+.tooltip:before {
+   position: absolute;
+   content: '';
+   border: 9px solid transparent;
+   visibility: hidden;
+}
+.tooltip:hover:after {
+	visibility: visible;
+	
+}
+.tooltip:hover:before {
+	visibility: visible;
+}
+
+
+/* Стили для подсказки сверху */
+.tooltip-top:after {
+    left: 0;
+	bottom: 130%;
+}
+.tooltip-top:before {
+   border-top: 9px solid rgba(61,61,61,0.95);
+   left: 50%; 
+   bottom: 60%; 
+   margin-left: 10px; 
+}
+
+/* Стили для подсказки снизу */
+.tooltip-bottom:after {
+    left: 0;
+	top: 130%;
+}
+.tooltip-bottom:before {
+   border-bottom: 9px solid rgba(61,61,61,0.95);
+   left: 50%; 
+   top: 60%; 
+   margin-left: 10px; 
+}
+
+/* Стили для подсказки слева */
+.tooltip-left:after {
+    right: 100%;
+    bottom: -30%;
+    margin-right: 10px;
+}
+.tooltip-left:before {
+      border-left: 9px solid rgba(61,61,61,0.95);
+       left: 50%;
+       margin-left: -10px;
+       bottom: 50%;
+}
+
+/* Стили для подсказки справа */
+.tooltip-right:after {
+    left: 40%;
+    bottom: 15%;
+    margin-left: 10px;
+}
+
+
