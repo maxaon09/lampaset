@@ -1,0 +1,69 @@
+{
+   "type": "pages",
+   "headline": "Special",
+   "pages": [
+      {
+         "items": [
+            {
+               "type": "button",
+               "action": "menu:http://llpp.in/m/im/msx/startformsxplayer.json",
+               "layout": "1,5,3,1",
+               "label": "start"
+            },
+            {
+               "type": "space",
+               "layout": "1,0,3,2",
+               "image": "https://i.gifer.com/7GW6.gif",
+               "imageFiller": "cover"
+            },
+            {
+               "type": "space",
+               "layout": "1,2,3,3",
+               "color": "msx-glass",
+               "headline": "MOOVIES Old",
+               "text": "Приложение для просмотра различного медиаконтента: фильмов, сериалов, аниме, iptv, прослушивание радиостанций"
+            },
+            {
+               "type": "button",
+               "action": "menu:request:interaction:init@http://llpp.in/m/im_js/msx/index.html",
+               "layout": "4,5,3,1",
+               "label": "start"
+            },
+            {
+               "type": "space",
+               "layout": "4,0,3,2",
+               "image": "https://i.gifer.com/7GW6.gif",
+               "imageFiller": "cover"
+            },
+            {
+               "type": "space",
+               "layout": "4,2,3,3",
+               "color": "msx-glass",
+               "headline": "MOOVIES New",
+               "text": "Приложение для просмотра различного медиаконтента: фильмов, сериалов, аниме, а так же просмотр торрентов, iptv, прослушивание радиостанций"
+            },
+            {
+               "type": "button",
+               "action": "menu:request:interaction:init@http://moovies.fun/index.html",
+               "layout": "7,5,3,1",
+               "label": "start"
+            },
+            {
+               "type": "space",
+               "layout": "7,0,3,2",
+               "image": "https://i.gifer.com/7GW6.gif",
+               "imageFiller": "cover",
+               "enable": false
+            },
+            {
+               "type": "space",
+               "layout": "7,2,3,3",
+               "color": "msx-glass",
+               "headline": "MOOVIES FUN",
+               "text": "Приложение для просмотра различного медиаконтента: фильмов, сериалов, аниме, а так же просмотр торрентов, iptv, прослушивание радиостанций",
+               "enable": false
+            }
+         ]
+      }
+   ]
+}
