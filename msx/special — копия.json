@@ -1,0 +1,63 @@
+{
+    "type": "pages",
+    "headline": "Special",
+    "pages": [{         
+            "items": [{
+               "type": "button",
+               "action": "link:http://ott.drm-play.com/",
+               "layout": "1,5,3,1",
+               "label": "start"
+            },
+            {
+               "type": "space",
+               "layout": "1,0,3,2",
+               "image": "https://1.bp.blogspot.com/-DkZinWVGE2Q/YHzAkPJhs5I/AAAAAAAAZ5A/p9huBHDHFswzcMzyOA_zuY8yQ-qeBfi2ACLcBGAsYHQ/s320/animated_icon.gif",
+               "imageFiller": "cover"
+            },
+            {
+               "type": "space",
+               "layout": "1,2,3,3",
+               "color": "msx-glass",
+               "headline": "Ott-DRM-PLAY",
+               "text": "Мультиплатформенный плеер IPTV. Тестовые плейлисты. Просмотр сталкер-порталов. Сохранение, перенос настроек"
+            },
+            {
+               "type": "button",
+               "layout": "4,5,3,1",
+               "label": "start"
+            },
+            {
+               "type": "space",
+               "layout": "4,0,3,2",
+               "image": "https://i.gifer.com/7GW6.gif",
+               "imageFiller": "cover"
+            },
+            {
+               "type": "space",
+               "layout": "4,2,3,3",
+               "color": "msx-glass",
+               "headline": "MOOVIES OLD",
+               "text": "Фильмы, сериалы, аниме, ТВ, радио."
+            },
+            {
+               "type": "button",
+               "layout": "7,5,3,1",
+               "label": "start"
+            },
+            {
+               "type": "space",
+               "layout": "7,0,3,2",
+               "image": "https://i.gifer.com/7GW6.gif",
+               "imageFiller": "cover",
+               "enable": false
+            },
+            {
+               "type": "space",
+               "layout": "7,2,3,3",
+               "color": "msx-glass",
+               "headline": "MOOVIES FUN",
+               "text": "Приложение для просмотра различного медиаконтента: фильмов, сериалов, аниме, а так же просмотр торрентов, iptv, прослушивание радиостанций",
+               "enable": false
+            }]
+        }]
+}
