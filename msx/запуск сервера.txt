@@ -1,3 +1,0 @@
-Откройте интерфейс командной строки (например, Windows PowerShell).
-Перейдите в папку http-server (например, cd c:\http-server).
-Введите http-server --cors, чтобы запустить сервер.
