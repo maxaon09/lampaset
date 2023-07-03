@@ -1,0 +1,190 @@
+{
+   "type": "pages",
+   "headline": "WALS-msx",
+   "pages": [
+      {
+         "items": [
+            {
+               "type": "default",
+               "layout": "0,0,4,1",
+               "titleFooter": "IPTV player",
+               "title": "DRM-Play",
+               "image": "http://192.168.0.216:8080/msx/gif/drm1.gif",
+               "action": "link:http://drm-play.com",
+               "imageFiller": "width-center",
+               "imageWidth": 1.83
+            },
+            {
+               "type": "default",
+               "layout": "0,1,4,1",
+               "titleFooter": "IPTV player",
+               "title": "ICVA",
+               "image": "http://192.168.0.216:8080/msx/gif/icva1.gif",
+               "action": "link:http://icva.mx/",
+               "imageFiller": "width-center",
+               "imageWidth": 1.83
+            },
+            {
+               "type": "default",
+               "layout": "0,2,4,1",
+               "titleFooter": "Online/Torrent",
+               "title": "MOOVIES",
+               "image": "http://192.168.0.216:8080/msx/gif/moovies.gif",
+               "action": "menu:request:interaction:init@http://moovies.fun/index.html",
+               "imageFiller": "width-center",
+               "imageWidth": 1.83
+            },
+            {
+               "type": "default",
+               "layout": "0,3,4,1",
+               "titleFooter": "Online",
+               "title": "KinoPUB",
+               "image": "http://192.168.0.216:8080/msx/gif/kinopub.gif",
+               "action": "link:http://kpms.cc/bootstrap.html",
+               "imageFiller": "width-center",
+               "imageWidth": 1.83
+            },
+            {
+               "type": "default",
+               "layout": "0,4,4,1",
+               "titleFooter": "Online/TV",
+               "title": "IMPIRE BOOM",
+               "image": "http://192.168.0.216:8080/msx/gif/iboom.gif",
+               "action": "link:http://web.imboom.ru/",
+               "imageFiller": "width-center",
+               "imageWidth": 1.83
+            },
+            {
+               "type": "default",
+               "layout": "0,5,4,1",
+               "titleFooter": "KIDS",
+               "title": "YouTUBE",
+               "image": "http://192.168.0.216:8080/msx/gif/youtubekids.gif",
+               "action": "link:https://www.youtube.com/tv/kids",
+               "imageFiller": "width-center",
+               "imageWidth": 1.83
+            },
+            {
+               "type": "default",
+               "layout": "4,0,4,1",
+               "titleFooter": "IPTV player",
+               "title": "Ott FOSS",
+               "image": "http://192.168.0.216:8080/msx/gif/foss1.gif",
+               "action": "link:http://ott-play.com/f/",
+               "imageFiller": "width-center",
+               "imageWidth": 1.83
+            },
+            {
+               "type": "default",
+               "layout": "4,1,4,1",
+               "titleFooter": "Online/Torrent",
+               "title": "LAMPA",
+               "image": "http://192.168.0.216:8080/msx/gif/lampa.gif",
+               "action": "menu:http://lampa.mx",
+               "imageFiller": "width-center",
+               "imageWidth": 1.83
+            },
+            {
+               "type": "default",
+               "layout": "4,2,4,1",
+               "titleFooter": "Online/Torrent",
+               "title": "ATODO",
+               "image": "http://192.168.0.216:8080/msx/gif/atodo.gif",
+               "action": "menu:request:interaction:menu@http://atodo.fun/fun.html",
+               "imageFiller": "width-center",
+               "imageWidth": 1.83
+            },
+            {
+               "type": "default",
+               "layout": "4,3,4,1",
+               "titleFooter": "Online/Torrent",
+               "title": "DEEPLEX",
+               "image": "http://192.168.0.216:8080/msx/gif/deeplex.gif",
+               "action": "link:http://smart.deeplex.cc/",
+               "imageFiller": "width-center",
+               "imageWidth": 1.83
+            },
+            {
+               "type": "default",
+               "layout": "4,4,4,1",
+               "titleFooter": "Online/TV/Torrent",
+               "title": "FORK Player",
+               "image": "http://192.168.0.216:8080/msx/gif/fork.gif",
+               "action": "link:http://browser.appfxml.com/",
+               "imageFiller": "width-center",
+               "imageWidth": 1.83
+            },
+            {
+               "type": "default",
+               "layout": "4,5,4,1",
+               "titleFooter": "Video/TV",
+               "title": "RuTUBE",
+               "image": "http://192.168.0.216:8080/msx/gif/rutube.gif",
+               "action": "link:https://rutube.ru/tv-release/rutube.server-22.0.0/webos/",
+               "imageFiller": "width-center",
+               "imageWidth": 1.83
+            },
+            {
+               "type": "default",
+               "layout": "8,0,4,1",
+               "titleFooter": "IPTV player",
+               "title": "Ott-PLAY",
+               "image": "http://192.168.0.216:8080/msx/gif/ott-play1.gif",
+               "action": "link:http://ott-play.com/f/",
+               "imageFiller": "width-center",
+               "imageWidth": 1.83
+            },
+            {
+               "type": "default",
+               "layout": "8,1,4,1",
+               "titleFooter": "Online/torrent",
+               "title": "VoKINO",
+               "image": "http://192.168.0.216:8080/msx/gif/vokino.gif",
+               "action": "link:http://web.vokino.tv/",
+               "imageFiller": "width-center",
+               "imageWidth": 1.83
+            },
+            {
+               "type": "default",
+               "layout": "8,2,4,1",
+               "titleFooter": "Onlaine/Iptv",
+               "title": "X-SMART",
+               "image": "http://192.168.0.216:8080/msx/gif/xsmart.gif",
+               "action": "link:http://app.xsmart.tv",
+               "imageFiller": "width-center",
+               "imageWidth": 1.83
+            },
+            {
+               "type": "default",
+               "layout": "8,3,4,1",
+               "titleFooter": "Online",
+               "title": "KINOBOOM",
+               "image": "http://192.168.0.216:8080/msx/gif/kinoboom.gif",
+               "action": "link:http://kb-team.club/msx/enter.php?welcome",
+               "imageFiller": "width-center",
+               "imageWidth": 1.83
+            },
+            {
+               "type": "default",
+               "layout": "8,4,4,1",
+               "titleFooter": "Video",
+               "title": "YouTUBE",
+               "image": "http://192.168.0.216:8080/msx/gif/youtube.gif",
+               "action": "link:https://www.youtube.com/tv#/",
+               "imageFiller": "width-center",
+               "imageWidth": 1.83
+            },
+            {
+               "type": "default",
+               "layout": "8,5,4,1",
+               "titleFooter": "Online",
+               "title": "КИНОПОИСК",
+               "image": "http://192.168.0.216:8080/msx/gif/kinopoisk.gif",
+               "action": "link:https://smarttv-app.ott.yandex.ru/",
+               "imageFiller": "width-center",
+               "imageWidth": 1.83
+            }
+         ]
+      }
+   ]
+}
